@@ -3,7 +3,7 @@
 
 An interactive Excel dashboard that analyses supermarket sales data across branches, cities, product lines, customer types, payment methods and time of day. Built with pivot tables, pivot charts, formula-driven charts and slicers.
 
-
+![image alt](https://github.com/piyushlondhe17-lang/Excel-project/blob/8be55508b8c2cfd07286bac5fca6a9b3e75fc6fc/Screenshot%202026-11-19%20180802.png)
 
 ## 📌 Overview
 
